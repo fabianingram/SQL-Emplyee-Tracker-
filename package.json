@@ -1,0 +1,33 @@
+{
+    "name": "Homework 12",
+    "version": "1.0.0",
+    "description": "Objective: ``` As a business owner I want to be able to view and manage the departments, roles, and employees in my company So that I can organize and plan my business ```",
+  "main": "server.js",
+  "scripts": {
+      "test": "echo \"error: no test specified\" && exit 1",
+      "start": "node server.js"
+  },
+  "repository": {
+      "type: "git",
+      "url": "https://github.com/fabianingram/SQL-Emplyee-Tracker-.git"
+  },
+      "author": ""
+      "license": "",
+      "bugs": {
+          "url":""
+
+      }, 
+      "homepage": "https://github.com/fabianingram/SQL-Emplyee-Tracker#readme",
+      "dependacies": {
+          "console.table": "^0.10.0",
+          "inquirer": "^7.0.4",
+          "mysql":"^2.18.1"
+      },
+      "scripts": {
+          "start": "node server.js"
+      
+
+
+      
+  }
+}
